@@ -18,6 +18,14 @@ pip install -r requirements.txt
 
 # Usage
 
+Firstly, clone this repository into your computer.
+```bash
+git clone https://github.com/anitdevrim/Lol-Champion-Scrape
+```
+Go into the directory.
+```bash
+cd Lol-Champion-Scrape
+```
 After installing the requirements we run the docker-compose.yml file by
 
 ```bash
