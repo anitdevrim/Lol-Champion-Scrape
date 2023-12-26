@@ -32,10 +32,10 @@ After installing the requirements run the docker-compose.yml file by
 docker-compose up
 ```
 
-Now, localhost:4444 is ready for our scraping process.
+Now, localhost:4444 is ready for scraping process.
 This process may take few seconds.
 
-Now use the command below to run our program.
+Now use the command below to run the program.
 
 ```bash
 python3 run.py
