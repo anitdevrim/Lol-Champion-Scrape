@@ -10,7 +10,7 @@ This project is prepared with Docker.
 
 # Requirements
 
-Before start running the program given requirements.txt should be installed. Installation of requirements.txt can be done by copying the command below in your terminal.
+Before start running the program, given requirements.txt should be installed. Installation of requirements.txt can be done by copying the command below in your terminal.
 
 ```bash
 pip install -r requirements.txt
@@ -26,7 +26,7 @@ Go into the directory.
 ```bash
 cd Lol-Champion-Scrape
 ```
-After installing the requirements we run the docker-compose.yml file by
+After installing the requirements run the docker-compose.yml file by
 
 ```bash
 docker-compose up
@@ -35,7 +35,7 @@ docker-compose up
 Now, localhost:4444 is ready for our scraping process.
 This process may take few seconds.
 
-Now we use the command below to run our program.
+Now use the command below to run our program.
 
 ```bash
 python3 run.py
